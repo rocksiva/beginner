@@ -6,4 +6,4 @@ for j in range(x+1,y):
        if (j % i) == 0:  
            break  
    else:  
-       print(j) 
+       print(j,end=" ") 
