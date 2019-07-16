@@ -1,5 +1,5 @@
-x,y=map(int,input().split())
-for j in range(x+1,y):
+e,y=map(int,input().split())
+for j in range(e+1,y):
   
   
    for i in range(2,j):  
