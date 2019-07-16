@@ -4,7 +4,7 @@ if(a%100==0):
     print(yes)
   else:
     print(no)
- else:
+else:
   if(a%4==0):
     print(yes)
   else:
