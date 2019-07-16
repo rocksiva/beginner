@@ -1,5 +1,3 @@
-s=["hello"]
 n=int(input())
-a=s*n
-for i range(a):
-  print(i)
+for i range(0,n):
+  print("hello")
