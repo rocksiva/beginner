@@ -1,5 +1,5 @@
 a1,b1=map(int,input().split())
-for num1 in range(a1,b1 + 1):
+for num1 in range(a1,b1):
    sum = 0
  
    
